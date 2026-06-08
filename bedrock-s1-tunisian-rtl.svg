@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 -93.6 905.2799999999999 963.6" width="905.2799999999999" height="963.6">
+<rect x="-20" y="-93.6" width="905.2799999999999" height="963.6" fill="#ffffff" />
+<ellipse cx="123.58999999999999" cy="425.0" rx="123.58999999999999" ry="25.0" fill="#dee2e6" stroke="#495057" stroke-width="2" opacity="1.0" />
+<rect x="250" y="80.0" width="199.03999999999996" height="50" rx="8" ry="8" fill="#a5d8ff" stroke="#1971c2" stroke-width="2" opacity="1.0" />
+<rect x="500" y="0.0" width="196.64000000000001" height="50" rx="8" ry="8" fill="#a5d8ff" stroke="#1971c2" stroke-width="2" opacity="1.0" />
+<rect x="500" y="80.0" width="289.91999999999985" height="50" rx="8" ry="8" fill="#a5d8ff" stroke="#1971c2" stroke-width="2" opacity="1.0" />
+<rect x="500" y="160.0" width="322.39999999999986" height="50" rx="8" ry="8" fill="#a5d8ff" stroke="#1971c2" stroke-width="2" opacity="1.0" />
+<rect x="250" y="320.0" width="241.59999999999994" height="50" rx="8" ry="8" fill="#b2f2bb" stroke="#2f9e44" stroke-width="2" opacity="1.0" />
+<rect x="500" y="240.0" width="232.31999999999994" height="50" rx="8" ry="8" fill="#b2f2bb" stroke="#2f9e44" stroke-width="2" opacity="1.0" />
+<rect x="500" y="320.0" width="227.19999999999993" height="50" rx="8" ry="8" fill="#b2f2bb" stroke="#2f9e44" stroke-width="2" opacity="1.0" />
+<rect x="500" y="400.0" width="167.2" height="50" rx="8" ry="8" fill="#b2f2bb" stroke="#2f9e44" stroke-width="2" opacity="1.0" />
+<rect x="250" y="600.0" width="214.23999999999995" height="50" rx="8" ry="8" fill="#d0bfff" stroke="#7048e8" stroke-width="2" opacity="1.0" />
+<rect x="500" y="480.0" width="120" height="50" rx="8" ry="8" fill="#d0bfff" stroke="#7048e8" stroke-width="2" opacity="1.0" />
+<rect x="500" y="560.0" width="139.2" height="50" rx="8" ry="8" fill="#d0bfff" stroke="#7048e8" stroke-width="2" opacity="1.0" />
+<rect x="500" y="640.0" width="159.04000000000002" height="50" rx="8" ry="8" fill="#d0bfff" stroke="#7048e8" stroke-width="2" opacity="1.0" />
+<rect x="500" y="720.0" width="210.07999999999996" height="50" rx="8" ry="8" fill="#d0bfff" stroke="#7048e8" stroke-width="2" opacity="1.0" />
+<rect x="250" y="800.0" width="257.5999999999999" height="50" rx="8" ry="8" fill="#ffd8a8" stroke="#e8590c" stroke-width="2" opacity="1.0" />
+<rect x="500" y="800.0" width="365.27999999999986" height="50" rx="8" ry="8" fill="#ffd8a8" stroke="#e8590c" stroke-width="2" opacity="1.0" />
+<text x="717.8799999999999" y="-48.4" font-size="24" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">Section 1: Architecture Design بالتونسي</text>
+<text x="123.58999999999999" y="431.3" font-size="18" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Architecture Design</text>
+<text x="429.03999999999996" y="110.60000000000001" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">شنوا ال pattern؟</text>
+<text x="676.64" y="30.60000000000001" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">Agent واحد (Q&amp;A)</text>
+<text x="769.9199999999998" y="110.60000000000001" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">عدة Agents يخدمو مع بعضهم</text>
+<text x="802.3999999999999" y="190.6" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">Agent async (ساعات بالطويلة)</text>
+<text x="471.5999999999999" y="350.6" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">القرار يتبع المشكلة</text>
+<text x="712.3199999999999" y="270.6" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">بسيطة → Single Agent</text>
+<text x="707.1999999999999" y="350.6" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">معقدة → Multi-Agent</text>
+<text x="647.2" y="430.6" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">طويلة → Async</text>
+<text x="357.12" y="630.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">AgentCore Patterns</text>
+<text x="560.0" y="510.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">ReAct</text>
+<text x="569.6" y="590.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Supervisor</text>
+<text x="579.52" y="670.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Hierarchical</text>
+<text x="605.04" y="750.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Human-in-the-loop</text>
+<text x="487.5999999999999" y="830.6" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">التشبيه: كيف تبني دار</text>
+<text x="845.2799999999999" y="830.6" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">لازم تقرر ال plan قبل ما تحط حجرة</text>
+<path d="M 449.03999999999996 105.0 L 500.0 25.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 449.03999999999996 105.0 L 500.0 105.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 449.03999999999996 105.0 L 500.0 185.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 123.58999999999999 400.0 L 349.52 130.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 491.5999999999999 345.0 L 500.0 265.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 491.5999999999999 345.0 L 500.0 345.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 491.5999999999999 345.0 L 500.0 425.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 247.17999999999998 425.0 L 250.0 345.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 464.23999999999995 625.0 L 500.0 505.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 464.23999999999995 625.0 L 500.0 585.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 464.23999999999995 625.0 L 500.0 665.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 464.23999999999995 625.0 L 500.0 745.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 247.17999999999998 425.0 L 250.0 625.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 507.5999999999999 825.0 L 500.0 825.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 123.58999999999999 450.0 L 378.79999999999995 800.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+</svg>
