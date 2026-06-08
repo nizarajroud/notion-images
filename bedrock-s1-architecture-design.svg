@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 -93.6 915.52 1043.6" width="915.52" height="1043.6">
+<rect x="-20" y="-93.6" width="915.52" height="1043.6" fill="#ffffff" />
+<ellipse cx="123.58999999999999" cy="465.0" rx="123.58999999999999" ry="25.0" fill="#dee2e6" stroke="#495057" stroke-width="2" opacity="1.0" />
+<rect x="250" y="80.0" width="204.31999999999996" height="50" rx="8" ry="8" fill="#a5d8ff" stroke="#1971c2" stroke-width="2" opacity="1.0" />
+<rect x="500" y="0.0" width="211.35999999999999" height="50" rx="8" ry="8" fill="#a5d8ff" stroke="#1971c2" stroke-width="2" opacity="1.0" />
+<rect x="500" y="80.0" width="284.15999999999985" height="50" rx="8" ry="8" fill="#a5d8ff" stroke="#1971c2" stroke-width="2" opacity="1.0" />
+<rect x="500" y="160.0" width="266.0799999999999" height="50" rx="8" ry="8" fill="#a5d8ff" stroke="#1971c2" stroke-width="2" opacity="1.0" />
+<rect x="250" y="320.0" width="229.75999999999993" height="50" rx="8" ry="8" fill="#b2f2bb" stroke="#2f9e44" stroke-width="2" opacity="1.0" />
+<rect x="500" y="240.0" width="214.23999999999995" height="50" rx="8" ry="8" fill="#b2f2bb" stroke="#2f9e44" stroke-width="2" opacity="1.0" />
+<rect x="500" y="320.0" width="311.35999999999984" height="50" rx="8" ry="8" fill="#b2f2bb" stroke="#2f9e44" stroke-width="2" opacity="1.0" />
+<rect x="500" y="400.0" width="294.8799999999999" height="50" rx="8" ry="8" fill="#b2f2bb" stroke="#2f9e44" stroke-width="2" opacity="1.0" />
+<rect x="250" y="600.0" width="214.23999999999995" height="50" rx="8" ry="8" fill="#d0bfff" stroke="#7048e8" stroke-width="2" opacity="1.0" />
+<rect x="500" y="480.0" width="226.88" height="50" rx="8" ry="8" fill="#d0bfff" stroke="#7048e8" stroke-width="2" opacity="1.0" />
+<rect x="500" y="560.0" width="273.7599999999999" height="50" rx="8" ry="8" fill="#d0bfff" stroke="#7048e8" stroke-width="2" opacity="1.0" />
+<rect x="500" y="640.0" width="274.2399999999999" height="50" rx="8" ry="8" fill="#d0bfff" stroke="#7048e8" stroke-width="2" opacity="1.0" />
+<rect x="500" y="720.0" width="210.07999999999996" height="50" rx="8" ry="8" fill="#d0bfff" stroke="#7048e8" stroke-width="2" opacity="1.0" />
+<rect x="250" y="840.0" width="120" height="50" rx="8" ry="8" fill="#ffd8a8" stroke="#e8590c" stroke-width="2" opacity="1.0" />
+<rect x="500" y="800.0" width="235.35999999999993" height="50" rx="8" ry="8" fill="#ffd8a8" stroke="#e8590c" stroke-width="2" opacity="1.0" />
+<rect x="500" y="880.0" width="375.52" height="50" rx="8" ry="8" fill="#ffd8a8" stroke="#e8590c" stroke-width="2" opacity="1.0" />
+<text x="223.92000000000004" y="-48.4" font-size="24" fill="#1e1e1e" text-anchor="start" opacity="1.0" font-family="Arial, sans-serif">Section 1: Architecture Design</text>
+<text x="123.58999999999999" y="471.3" font-size="18" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Architecture Design</text>
+<text x="352.15999999999997" y="110.60000000000001" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Pattern Selection</text>
+<text x="605.68" y="30.60000000000001" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Single Agent (Q&amp;A)</text>
+<text x="642.0799999999999" y="110.60000000000001" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Multi-Agent Collaboration</text>
+<text x="633.04" y="190.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Async Agent (long tasks)</text>
+<text x="364.88" y="350.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Key Decision Factors</text>
+<text x="607.12" y="270.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Problem complexity</text>
+<text x="655.68" y="350.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Task duration (sync vs async)</text>
+<text x="647.4399999999999" y="430.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Number of specialized roles</text>
+<text x="357.12" y="630.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">AgentCore Patterns</text>
+<text x="613.44" y="510.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">ReAct (reason + act)</text>
+<text x="636.8799999999999" y="590.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Supervisor orchestration</text>
+<text x="637.1199999999999" y="670.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Hierarchical multi-agent</text>
+<text x="605.04" y="750.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Human-in-the-loop</text>
+<text x="310.0" y="870.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Analogy</text>
+<text x="617.68" y="830.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Like building a house</text>
+<text x="687.76" y="910.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Choose the plan before laying bricks</text>
+<path d="M 454.31999999999994 105.0 L 500.0 25.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 454.31999999999994 105.0 L 500.0 105.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 454.31999999999994 105.0 L 500.0 185.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 123.58999999999999 440.0 L 352.15999999999997 130.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 479.75999999999993 345.0 L 500.0 265.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 479.75999999999993 345.0 L 500.0 345.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 479.75999999999993 345.0 L 500.0 425.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 247.17999999999998 465.0 L 250.0 345.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 464.23999999999995 625.0 L 500.0 505.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 464.23999999999995 625.0 L 500.0 585.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 464.23999999999995 625.0 L 500.0 665.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 464.23999999999995 625.0 L 500.0 745.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 247.17999999999998 465.0 L 250.0 625.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 370 865.0 L 500 825.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 370 865.0 L 500 905.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+<path d="M 123.58999999999999 490.0 L 310.0 840.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
+</svg>
