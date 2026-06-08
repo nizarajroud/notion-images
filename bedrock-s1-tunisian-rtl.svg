@@ -16,23 +16,23 @@
 <rect x="500" y="720.0" width="210.07999999999996" height="50" rx="8" ry="8" fill="#d0bfff" stroke="#7048e8" stroke-width="2" opacity="1.0" />
 <rect x="250" y="800.0" width="257.5999999999999" height="50" rx="8" ry="8" fill="#ffd8a8" stroke="#e8590c" stroke-width="2" opacity="1.0" />
 <rect x="500" y="800.0" width="365.27999999999986" height="50" rx="8" ry="8" fill="#ffd8a8" stroke="#e8590c" stroke-width="2" opacity="1.0" />
-<text x="717.8799999999999" y="-48.4" font-size="24" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">Section 1: Architecture Design بالتونسي</text>
+<text x="432.63999999999993" y="-48.4" font-size="24" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="embed">Section 1: Architecture Design بالتونسي</text>
 <text x="123.58999999999999" y="431.3" font-size="18" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Architecture Design</text>
-<text x="429.03999999999996" y="110.60000000000001" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">شنوا ال pattern؟</text>
-<text x="676.64" y="30.60000000000001" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">Agent واحد (Q&amp;A)</text>
-<text x="769.9199999999998" y="110.60000000000001" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">عدة Agents يخدمو مع بعضهم</text>
-<text x="802.3999999999999" y="190.6" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">Agent async (ساعات بالطويلة)</text>
-<text x="471.5999999999999" y="350.6" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">القرار يتبع المشكلة</text>
-<text x="712.3199999999999" y="270.6" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">بسيطة → Single Agent</text>
-<text x="707.1999999999999" y="350.6" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">معقدة → Multi-Agent</text>
-<text x="647.2" y="430.6" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">طويلة → Async</text>
+<text x="349.52" y="110.60000000000001" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="embed">شنوا ال pattern؟</text>
+<text x="598.32" y="30.60000000000001" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="embed">Agent واحد (Q&amp;A)</text>
+<text x="644.9599999999999" y="110.60000000000001" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="embed">عدة Agents يخدمو مع بعضهم</text>
+<text x="661.1999999999999" y="190.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="embed">Agent async (ساعات بالطويلة)</text>
+<text x="370.79999999999995" y="350.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="embed">القرار يتبع المشكلة</text>
+<text x="616.16" y="270.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="embed">بسيطة → Single Agent</text>
+<text x="613.5999999999999" y="350.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="embed">معقدة → Multi-Agent</text>
+<text x="583.6" y="430.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="embed">طويلة → Async</text>
 <text x="357.12" y="630.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">AgentCore Patterns</text>
 <text x="560.0" y="510.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">ReAct</text>
 <text x="569.6" y="590.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Supervisor</text>
 <text x="579.52" y="670.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Hierarchical</text>
 <text x="605.04" y="750.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif">Human-in-the-loop</text>
-<text x="487.5999999999999" y="830.6" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">التشبيه: كيف تبني دار</text>
-<text x="845.2799999999999" y="830.6" font-size="16" fill="#1e1e1e" text-anchor="end" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="bidi-override">لازم تقرر ال plan قبل ما تحط حجرة</text>
+<text x="378.79999999999995" y="830.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="embed">التشبيه: كيف تبني دار</text>
+<text x="682.6399999999999" y="830.6" font-size="16" fill="#1e1e1e" text-anchor="middle" opacity="1.0" font-family="Arial, sans-serif" direction="rtl" unicode-bidi="embed">لازم تقرر ال plan قبل ما تحط حجرة</text>
 <path d="M 449.03999999999996 105.0 L 500.0 25.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
 <path d="M 449.03999999999996 105.0 L 500.0 105.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
 <path d="M 449.03999999999996 105.0 L 500.0 185.0" fill="none" stroke="#1e1e1e" stroke-width="1" opacity="1.0"    />
